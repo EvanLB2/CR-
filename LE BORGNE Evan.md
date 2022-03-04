@@ -26,6 +26,7 @@ looks terrible compare to the others that exist).
 | Forks | 4k |  
 | Watchers | 685 |  
 | Stars | 26.4k |  
+| Tags | 13.8k |  
 
 In the README.md, we can find different informations about Vim but also the paths in the repositository if we want  
 more precision about how to install it for example.  
